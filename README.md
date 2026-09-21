@@ -91,5 +91,6 @@ NEXVY Gaming is a frontend portfolio project and does not process real orders or
 
 ## Author
 
+- My Portfolio: [Syed Furqan Ullah](https://syed-furqan-ullah-portfolio.netlify.app/)
 - GitHub: [@syedfurqanullah](https://github.com/syedfurqanullah)
 - LinkedIn: [Syed Furqan Ullah](https://www.linkedin.com/in/syed-furqan-ullah/)
