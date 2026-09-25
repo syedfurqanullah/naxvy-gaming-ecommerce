@@ -1,4 +1,4 @@
-# NEXVY Gaming E-commerce Landing page 
+# NEXVY Gaming E-commerce Frontend
 
 A modern and fully responsive gaming e-commerce frontend built with HTML5, Modern CSS3, and JavaScript.
 
