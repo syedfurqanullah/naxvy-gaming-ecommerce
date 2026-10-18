@@ -6,7 +6,7 @@ NEXVY Gaming is a frontend project focused on creating a realistic gaming store 
 
 ## Live Demo
 
-[View Naxvy Gaming](https://naxvy-gaming.netlify.app/)
+[View Naxvy Gaming E-Commerce](https://naxvy-gaming.netlify.app/)
 
 ## 📸 Screenshots
 
@@ -91,6 +91,6 @@ NEXVY Gaming is a frontend portfolio project and does not process real orders or
 
 ## Author
 
-- My Portfolio: [Syed Furqan Ullah](https://syed-furqan-ullah-portfolio.netlify.app/)
+- My Portfolio: [Syed Furqan Ullah](https://syedfurqanullah.netlify.app/)
 - GitHub: [@syedfurqanullah](https://github.com/syedfurqanullah)
 - LinkedIn: [Syed Furqan Ullah](https://www.linkedin.com/in/syed-furqan-ullah/)
